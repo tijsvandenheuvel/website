@@ -2,3 +2,8 @@ body{
     padding-left: 2em;
     font-family: Helvetica, sans-serif;
 }
+
+code{
+    display: block;
+    padding: 1em 0em 1em 2em ;
+}
